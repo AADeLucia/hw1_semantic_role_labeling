@@ -1,0 +1,6 @@
+decomp
+*.DS_Store
+*.pyc
+__pycache__
+.idea
+temp

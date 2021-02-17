@@ -1,0 +1,20 @@
+SELECT DISTINCT ?node
+WHERE { ?node ?edge ?arg ;
+             <domain> <semantics> ;
+             <type>   <predicate> ;
+             <pred-particular> ?predparticular
+             FILTER ( ?predparticular > 0 ) .
+       ?arg  <domain> <semantics> ;
+             <type>   <argument>  ;
+             <arg-particular> ?argparticular
+             FILTER ( ?argparticular > 0 ) .
+       { ?edge <existed_before> ?existed_before
+             FILTER ( ?existed_before > 0 )
+       }
+       { ?edge <volition> ?volition
+             FILTER ( ?volition > 0 )
+       } UNION
+       { ?edge <instigation> ?instigation
+             FILTER ( ?instigation > 0 )
+       }
+     }
