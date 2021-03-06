@@ -1,0 +1,671 @@
+id,sentence,argument_head,predicate_head,role,label
+ewt-test-5,"This BuzzMachine post argues that Google 's rush toward ubiquity might backfire -- which we 've all heard before , but it 's particularly well - put in this post .",2,3,BENEFICIARY,0
+ewt-test-5,"This BuzzMachine post argues that Google 's rush toward ubiquity might backfire -- which we 've all heard before , but it 's particularly well - put in this post .",7,11,BENEFICIARY,0
+ewt-test-5,"This BuzzMachine post argues that Google 's rush toward ubiquity might backfire -- which we 've all heard before , but it 's particularly well - put in this post .",11,17,BENEFICIARY,0
+ewt-test-5,"This BuzzMachine post argues that Google 's rush toward ubiquity might backfire -- which we 've all heard before , but it 's particularly well - put in this post .",14,17,BENEFICIARY,0
+ewt-test-11,"I doubt the very few who actually read my blog have not come across this yet , but I figured I would put it out there anyways .",0,1,BENEFICIARY,0
+ewt-test-11,"I doubt the very few who actually read my blog have not come across this yet , but I figured I would put it out there anyways .",4,7,BENEFICIARY,0
+ewt-test-11,"I doubt the very few who actually read my blog have not come across this yet , but I figured I would put it out there anyways .",9,7,BENEFICIARY,0
+ewt-test-11,"I doubt the very few who actually read my blog have not come across this yet , but I figured I would put it out there anyways .",18,19,BENEFICIARY,0
+ewt-test-14,He makes some good observations on a few of the pic's .,0,1,BENEFICIARY,0
+ewt-test-14,He makes some good observations on a few of the pic's .,4,1,BENEFICIARY,0
+ewt-test-15,One of the pictures shows a flag that was found in Fallujah .,0,4,BENEFICIARY,0
+ewt-test-15,One of the pictures shows a flag that was found in Fallujah .,6,4,BENEFICIARY,0
+ewt-test-16,On the next two pictures he took screenshots of two beheading video's .,4,6,BENEFICIARY,0
+ewt-test-16,On the next two pictures he took screenshots of two beheading video's .,5,6,BENEFICIARY,0
+ewt-test-16,On the next two pictures he took screenshots of two beheading video's .,7,6,BENEFICIARY,0
+ewt-test-18,You have to see these slides .... they are amazing .,0,1,BENEFICIARY,0
+ewt-test-25,Iran says it is creating nuclear energy without wanting nuclear weapons .,0,1,BENEFICIARY,0
+ewt-test-25,Iran says it is creating nuclear energy without wanting nuclear weapons .,6,4,BENEFICIARY,0
+ewt-test-28,But there is no proof .,4,2,BENEFICIARY,0
+ewt-test-29,I read an Article in Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article .,0,1,BENEFICIARY,0
+ewt-test-29,I read an Article in Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article .,3,1,BENEFICIARY,0
+ewt-test-29,I read an Article in Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article .,10,7,BENEFICIARY,0
+ewt-test-29,I read an Article in Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article .,18,15,BENEFICIARY,0
+ewt-test-29,I read an Article in Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article .,20,21,BENEFICIARY,0
+ewt-test-33,Many people want to use diplomacy with Iran rather than military pressure .,1,2,BENEFICIARY,0
+ewt-test-36,One reader pointed out that the President watched the Americans in the embassy when they took them hostage .,1,2,BENEFICIARY,0
+ewt-test-36,One reader pointed out that the President watched the Americans in the embassy when they took them hostage .,6,7,BENEFICIARY,0
+ewt-test-36,One reader pointed out that the President watched the Americans in the embassy when they took them hostage .,9,7,BENEFICIARY,0
+ewt-test-42,"Reuters reported that "" Sunni clerics in the town issued a ' Declaration by the people of Fallujah ' condemning the deaths of the security guards and police , announcing three days of mourning , and calling for a general strike today . """,0,1,BENEFICIARY,0
+ewt-test-42,"Reuters reported that "" Sunni clerics in the town issued a ' Declaration by the people of Fallujah ' condemning the deaths of the security guards and police , announcing three days of mourning , and calling for a general strike today . """,5,9,BENEFICIARY,0
+ewt-test-42,"Reuters reported that "" Sunni clerics in the town issued a ' Declaration by the people of Fallujah ' condemning the deaths of the security guards and police , announcing three days of mourning , and calling for a general strike today . """,12,9,BENEFICIARY,0
+ewt-test-42,"Reuters reported that "" Sunni clerics in the town issued a ' Declaration by the people of Fallujah ' condemning the deaths of the security guards and police , announcing three days of mourning , and calling for a general strike today . """,21,19,BENEFICIARY,0
+ewt-test-42,"Reuters reported that "" Sunni clerics in the town issued a ' Declaration by the people of Fallujah ' condemning the deaths of the security guards and police , announcing three days of mourning , and calling for a general strike today . """,31,29,BENEFICIARY,0
+ewt-test-45,The clerics demanded talks with local US commanders .,1,2,BENEFICIARY,0
+ewt-test-45,The clerics demanded talks with local US commanders .,3,2,BENEFICIARY,0
+ewt-test-47,Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power .,0,4,BENEFICIARY,1
+ewt-test-47,Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power .,6,4,BENEFICIARY,0
+ewt-test-47,Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power .,8,4,BENEFICIARY,0
+ewt-test-47,Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power .,13,10,BENEFICIARY,0
+ewt-test-48,"They know that the American advent implies for them a demotion , and an elevation of the Shiites and Kurds , and they refuse to go quietly .",0,1,BENEFICIARY,0
+ewt-test-48,"They know that the American advent implies for them a demotion , and an elevation of the Shiites and Kurds , and they refuse to go quietly .",5,6,BENEFICIARY,0
+ewt-test-48,"They know that the American advent implies for them a demotion , and an elevation of the Shiites and Kurds , and they refuse to go quietly .",10,6,BENEFICIARY,0
+ewt-test-48,"They know that the American advent implies for them a demotion , and an elevation of the Shiites and Kurds , and they refuse to go quietly .",22,23,BENEFICIARY,0
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,2,3,BENEFICIARY,0
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,5,3,BENEFICIARY,1
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,8,3,BENEFICIARY,0
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,39,3,BENEFICIARY,0
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,17,18,BENEFICIARY,0
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,30,31,BENEFICIARY,0
+ewt-test-50,The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .,33,31,BENEFICIARY,0
+ewt-test-53,"BREYER filed a concurring opinion , in which KENNEDY , SOUTER , and GINSBURG joined .",0,1,BENEFICIARY,0
+ewt-test-53,"BREYER filed a concurring opinion , in which KENNEDY , SOUTER , and GINSBURG joined .",4,1,BENEFICIARY,0
+ewt-test-53,"BREYER filed a concurring opinion , in which KENNEDY , SOUTER , and GINSBURG joined .",8,14,BENEFICIARY,0
+ewt-test-54,"KENNEDY filed an opinion concurring in part , in which SOUTER , GINSBURG , and BREYER joined as to Parts I and II .",0,1,BENEFICIARY,0
+ewt-test-54,"KENNEDY filed an opinion concurring in part , in which SOUTER , GINSBURG , and BREYER joined as to Parts I and II .",3,1,BENEFICIARY,0
+ewt-test-54,"KENNEDY filed an opinion concurring in part , in which SOUTER , GINSBURG , and BREYER joined as to Parts I and II .",10,16,BENEFICIARY,0
+ewt-test-55,"SCALIA filed a dissenting opinion , in which THOMAS and ALITO joined .",0,1,BENEFICIARY,1
+ewt-test-55,"SCALIA filed a dissenting opinion , in which THOMAS and ALITO joined .",4,1,BENEFICIARY,1
+ewt-test-55,"SCALIA filed a dissenting opinion , in which THOMAS and ALITO joined .",8,11,BENEFICIARY,0
+ewt-test-56,"THOMAS filed a dissenting opinion , in which SCALIA joined , and in which ALITO joined as to all but Parts I , II - C - 1 , and III - B - 2 .",0,1,BENEFICIARY,0
+ewt-test-56,"THOMAS filed a dissenting opinion , in which SCALIA joined , and in which ALITO joined as to all but Parts I , II - C - 1 , and III - B - 2 .",4,1,BENEFICIARY,0
+ewt-test-56,"THOMAS filed a dissenting opinion , in which SCALIA joined , and in which ALITO joined as to all but Parts I , II - C - 1 , and III - B - 2 .",8,9,BENEFICIARY,0
+ewt-test-56,"THOMAS filed a dissenting opinion , in which SCALIA joined , and in which ALITO joined as to all but Parts I , II - C - 1 , and III - B - 2 .",14,15,BENEFICIARY,0
+ewt-test-57,"ALITO filed a dissenting opinion , in which SCALIA and THOMAS joined as to Parts I through III .",0,1,BENEFICIARY,0
+ewt-test-57,"ALITO filed a dissenting opinion , in which SCALIA and THOMAS joined as to Parts I through III .",4,1,BENEFICIARY,0
+ewt-test-61,I had to go to the BBC for this report .,0,1,BENEFICIARY,0
+ewt-test-65,"At that time , UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours .",2,9,BENEFICIARY,0
+ewt-test-65,"At that time , UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours .",8,9,BENEFICIARY,0
+ewt-test-65,"At that time , UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours .",17,14,BENEFICIARY,0
+ewt-test-74,I assume his actual reason is that he 's worried that Berkshire Hathaway just ca n't grow quickly enough to justify his usual charity policy .,0,1,BENEFICIARY,0
+ewt-test-74,I assume his actual reason is that he 's worried that Berkshire Hathaway just ca n't grow quickly enough to justify his usual charity policy .,12,16,BENEFICIARY,1
+ewt-test-74,I assume his actual reason is that he 's worried that Berkshire Hathaway just ca n't grow quickly enough to justify his usual charity policy .,24,20,BENEFICIARY,0
+ewt-test-82,He mentions his wife 's death having an effect on him .,0,1,BENEFICIARY,0
+ewt-test-84,"Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN , even the leftist countries in Europe , are basically accepting terrorist organizations as legitimate forms of a political party :",0,6,BENEFICIARY,0
+ewt-test-84,"Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN , even the leftist countries in Europe , are basically accepting terrorist organizations as legitimate forms of a political party :",9,6,BENEFICIARY,0
+ewt-test-84,"Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN , even the leftist countries in Europe , are basically accepting terrorist organizations as legitimate forms of a political party :",13,27,BENEFICIARY,0
+ewt-test-84,"Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN , even the leftist countries in Europe , are basically accepting terrorist organizations as legitimate forms of a political party :",29,27,BENEFICIARY,0
+ewt-test-86,"To the north in Lebanon , there is serious debate within Hezbollah about entering the Lebanese political process in light of Syria 's promised withdrawal .",2,7,BENEFICIARY,0
+ewt-test-86,"To the north in Lebanon , there is serious debate within Hezbollah about entering the Lebanese political process in light of Syria 's promised withdrawal .",4,7,BENEFICIARY,0
+ewt-test-86,"To the north in Lebanon , there is serious debate within Hezbollah about entering the Lebanese political process in light of Syria 's promised withdrawal .",9,7,BENEFICIARY,0
+ewt-test-86,"To the north in Lebanon , there is serious debate within Hezbollah about entering the Lebanese political process in light of Syria 's promised withdrawal .",17,13,BENEFICIARY,0
+ewt-test-104,"In a communique , the AMS said that for Iraqis to take part with "" raiding forces "" in the assault on a city , the population of which is Muslim ( such as Fallujah ) would be considered the most mortal of mortal sins .",2,6,BENEFICIARY,0
+ewt-test-104,"In a communique , the AMS said that for Iraqis to take part with "" raiding forces "" in the assault on a city , the population of which is Muslim ( such as Fallujah ) would be considered the most mortal of mortal sins .",5,6,BENEFICIARY,0
+ewt-test-105,"The Sunni AMS told Iraqis , "" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .",2,3,BENEFICIARY,0
+ewt-test-105,"The Sunni AMS told Iraqis , "" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .",4,3,BENEFICIARY,0
+ewt-test-105,"The Sunni AMS told Iraqis , "" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .",7,8,BENEFICIARY,0
+ewt-test-105,"The Sunni AMS told Iraqis , "" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .",24,25,BENEFICIARY,0
+ewt-test-105,"The Sunni AMS told Iraqis , "" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .",28,25,BENEFICIARY,0
+ewt-test-107,"The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops in the attack on Fallujah , as well .",4,5,BENEFICIARY,0
+ewt-test-107,"The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops in the attack on Fallujah , as well .",7,5,BENEFICIARY,0
+ewt-test-107,"The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops in the attack on Fallujah , as well .",10,8,BENEFICIARY,0
+ewt-test-108,"The statement said , "" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we ask them to view this war as illegal . """,1,2,BENEFICIARY,0
+ewt-test-108,"The statement said , "" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we ask them to view this war as illegal . """,39,36,BENEFICIARY,0
+ewt-test-108,"The statement said , "" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we ask them to view this war as illegal . """,44,48,BENEFICIARY,0
+ewt-test-108,"The statement said , "" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we ask them to view this war as illegal . """,50,48,BENEFICIARY,0
+ewt-test-108,"The statement said , "" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we ask them to view this war as illegal . """,65,63,BENEFICIARY,0
+ewt-test-109,"It called a "" ploy "" the assertaion that the attack was merely on foreign fighters at Fallujah .",7,1,BENEFICIARY,0
+ewt-test-112,President Bush pinched a few nerves yesterday with his choice of words :,1,2,BENEFICIARY,0
+ewt-test-112,President Bush pinched a few nerves yesterday with his choice of words :,5,2,BENEFICIARY,0
+ewt-test-112,President Bush pinched a few nerves yesterday with his choice of words :,9,2,BENEFICIARY,0
+ewt-test-116,""" We believe this is an ill - advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism , "" said Nihad Awad , executive director of the Council on American - Islamic Relations advocacy group .",1,2,BENEFICIARY,0
+ewt-test-116,""" We believe this is an ill - advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism , "" said Nihad Awad , executive director of the Council on American - Islamic Relations advocacy group .",11,12,BENEFICIARY,1
+ewt-test-116,""" We believe this is an ill - advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism , "" said Nihad Awad , executive director of the Council on American - Islamic Relations advocacy group .",19,18,BENEFICIARY,0
+ewt-test-116,""" We believe this is an ill - advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism , "" said Nihad Awad , executive director of the Council on American - Islamic Relations advocacy group .",28,26,BENEFICIARY,0
+ewt-test-156,Abu Musab al - Zarqawi and his group are said to have been bitter rivals of al - Qaeda during the Afghan resistance days .,4,9,BENEFICIARY,0
+ewt-test-157,One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century .,1,8,BENEFICIARY,0
+ewt-test-157,One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century .,10,13,BENEFICIARY,0
+ewt-test-157,One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century .,14,13,BENEFICIARY,0
+ewt-test-157,One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century .,20,19,BENEFICIARY,0
+ewt-test-164,"In 1998 they were joined by Egyptians from the al - Jihad al - Islami group of Ayman al - Zawahiri ( many of these were from Upper Egypt , especially Asyut and environs ) .",1,4,BENEFICIARY,0
+ewt-test-164,"In 1998 they were joined by Egyptians from the al - Jihad al - Islami group of Ayman al - Zawahiri ( many of these were from Upper Egypt , especially Asyut and environs ) .",2,4,BENEFICIARY,1
+ewt-test-164,"In 1998 they were joined by Egyptians from the al - Jihad al - Islami group of Ayman al - Zawahiri ( many of these were from Upper Egypt , especially Asyut and environs ) .",6,4,BENEFICIARY,0
+ewt-test-171,"Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War , and wearing its distinctive orange and black insignia .",2,3,BENEFICIARY,0
+ewt-test-171,"Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War , and wearing its distinctive orange and black insignia .",8,17,BENEFICIARY,0
+ewt-test-171,"Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War , and wearing its distinctive orange and black insignia .",19,18,BENEFICIARY,1
+ewt-test-171,"Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War , and wearing its distinctive orange and black insignia .",31,25,BENEFICIARY,0
+ewt-test-176,It notes 10 points at which the US made key mistakes that might have stopped Bin Laden 's plot .,3,1,BENEFICIARY,0
+ewt-test-188,Wolfowitz lied to him and said that there was a 10 to 50 % chance that Iraq was behind them .,0,1,BENEFICIARY,0
+ewt-test-188,Wolfowitz lied to him and said that there was a 10 to 50 % chance that Iraq was behind them .,3,1,BENEFICIARY,0
+ewt-test-197,Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed .,1,2,BENEFICIARY,0
+ewt-test-197,Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed .,4,2,BENEFICIARY,0
+ewt-test-197,Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed .,28,29,BENEFICIARY,0
+ewt-test-198,They were from all accounts marginalized and not listened to .,0,5,BENEFICIARY,0
+ewt-test-198,They were from all accounts marginalized and not listened to .,4,5,BENEFICIARY,0
+ewt-test-199,"Bush demoted Dick Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet .",0,1,BENEFICIARY,0
+ewt-test-199,"Bush demoted Dick Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet .",3,1,BENEFICIARY,0
+ewt-test-199,"Bush demoted Dick Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet .",20,1,BENEFICIARY,0
+ewt-test-203,I presume you need the Pakistan base for rescue operations in case anything went wrong .,0,1,BENEFICIARY,0
+ewt-test-206,"But in fall of 1999 , Gen. Pervez Musharraf made a coup against Nawaz Sharif .",2,9,BENEFICIARY,0
+ewt-test-206,"But in fall of 1999 , Gen. Pervez Musharraf made a coup against Nawaz Sharif .",8,9,BENEFICIARY,0
+ewt-test-206,"But in fall of 1999 , Gen. Pervez Musharraf made a coup against Nawaz Sharif .",11,9,BENEFICIARY,0
+ewt-test-208,Musharraf told Clinton he could n't use Pakistani soil or air space to send the team in against Bin Laden .,0,1,BENEFICIARY,0
+ewt-test-208,Musharraf told Clinton he could n't use Pakistani soil or air space to send the team in against Bin Laden .,2,1,BENEFICIARY,0
+ewt-test-213,"Clinton tried , and tried hard .",0,1,BENEFICIARY,0
+ewt-test-215,"that is how i want you to refer to me as "" the king """,0,1,BENEFICIARY,0
+ewt-test-215,"that is how i want you to refer to me as "" the king """,13,1,BENEFICIARY,0
+ewt-test-222,"you know , whatever .",0,1,BENEFICIARY,0
+ewt-test-228,i used to have one .,0,1,BENEFICIARY,0
+ewt-test-250,colorado beat texas a&m .,0,1,BENEFICIARY,0
+ewt-test-250,colorado beat texas a&m .,3,1,BENEFICIARY,0
+ewt-test-251,i know you remember the bet .,0,1,BENEFICIARY,0
+ewt-test-251,i know you remember the bet .,2,3,BENEFICIARY,0
+ewt-test-251,i know you remember the bet .,5,3,BENEFICIARY,0
+ewt-test-253,i got her number though .,0,1,BENEFICIARY,0
+ewt-test-253,i got her number though .,3,1,BENEFICIARY,0
+ewt-test-254,i want to hook up with that girl paige in the brown leather jacket .,0,1,BENEFICIARY,0
+ewt-test-256,i had a blast that night .,0,1,BENEFICIARY,1
+ewt-test-256,i had a blast that night .,3,1,BENEFICIARY,0
+ewt-test-269,I heard that more may be going up for sale in the next month or do .,0,1,BENEFICIARY,0
+ewt-test-270,Someone told me that Chase is planning a shitload of layoffs .,0,1,BENEFICIARY,0
+ewt-test-270,Someone told me that Chase is planning a shitload of layoffs .,2,1,BENEFICIARY,1
+ewt-test-270,Someone told me that Chase is planning a shitload of layoffs .,4,6,BENEFICIARY,1
+ewt-test-270,Someone told me that Chase is planning a shitload of layoffs .,8,6,BENEFICIARY,0
+ewt-test-287,These guys tried the Ken Lay route .,1,2,BENEFICIARY,0
+ewt-test-287,These guys tried the Ken Lay route .,6,2,BENEFICIARY,0
+ewt-test-295,"I know you must be going nuts with all the events , so I have not called .",0,1,BENEFICIARY,0
+ewt-test-301,There are only two counterparties at this time who have overdue margin :,4,1,BENEFICIARY,0
+ewt-test-301,There are only two counterparties at this time who have overdue margin :,7,1,BENEFICIARY,0
+ewt-test-319,"Well , he launched today .",2,3,BENEFICIARY,0
+ewt-test-321,"I think this is actually a good thing -- makes our proposal look like a much more preferable alternative by comparison , makes our support in the process more important , and sets Harvey up as the Ralph Nader equivalent in the election to fix California 's broken system --- a potential spoiler .",0,1,BENEFICIARY,1
+ewt-test-321,"I think this is actually a good thing -- makes our proposal look like a much more preferable alternative by comparison , makes our support in the process more important , and sets Harvey up as the Ralph Nader equivalent in the election to fix California 's broken system --- a potential spoiler .",33,32,BENEFICIARY,0
+ewt-test-321,"I think this is actually a good thing -- makes our proposal look like a much more preferable alternative by comparison , makes our support in the process more important , and sets Harvey up as the Ralph Nader equivalent in the election to fix California 's broken system --- a potential spoiler .",48,44,BENEFICIARY,1
+ewt-test-329,i need to now get a job at house of pies b/c that is the only way to pay the bills .,0,1,BENEFICIARY,0
+ewt-test-329,i need to now get a job at house of pies b/c that is the only way to pay the bills .,20,18,BENEFICIARY,0
+ewt-test-340,i have stronger will than you think .,0,1,BENEFICIARY,0
+ewt-test-340,i have stronger will than you think .,3,1,BENEFICIARY,0
+ewt-test-355,"In addition , is there someone who could consider the correlation between US CPI and the $ / euro exchange rate .",1,3,BENEFICIARY,0
+ewt-test-355,"In addition , is there someone who could consider the correlation between US CPI and the $ / euro exchange rate .",5,3,BENEFICIARY,0
+ewt-test-355,"In addition , is there someone who could consider the correlation between US CPI and the $ / euro exchange rate .",5,8,BENEFICIARY,0
+ewt-test-355,"In addition , is there someone who could consider the correlation between US CPI and the $ / euro exchange rate .",10,8,BENEFICIARY,0
+ewt-test-360,I met you at the Risk conference last week in Houston .,0,1,BENEFICIARY,0
+ewt-test-360,I met you at the Risk conference last week in Houston .,2,1,BENEFICIARY,0
+ewt-test-360,I met you at the Risk conference last week in Houston .,6,1,BENEFICIARY,0
+ewt-test-360,I met you at the Risk conference last week in Houston .,10,1,BENEFICIARY,0
+ewt-test-390,I agree with Steve 's position stated in his separate e'mail .,0,1,BENEFICIARY,0
+ewt-test-390,I agree with Steve 's position stated in his separate e'mail .,5,1,BENEFICIARY,0
+ewt-test-394,We pointed out to the PX that there was excess credit .,0,1,BENEFICIARY,0
+ewt-test-394,We pointed out to the PX that there was excess credit .,5,1,BENEFICIARY,0
+ewt-test-405,I spoke with Mike Collins [ 203-719-8385 ( phone ) and 203-719-7031 ( fax ) ] who conrfirmed to me that the cap included the remaining 2.5 + million remaining shares .,0,1,BENEFICIARY,0
+ewt-test-405,I spoke with Mike Collins [ 203-719-8385 ( phone ) and 203-719-7031 ( fax ) ] who conrfirmed to me that the cap included the remaining 2.5 + million remaining shares .,4,1,BENEFICIARY,0
+ewt-test-405,I spoke with Mike Collins [ 203-719-8385 ( phone ) and 203-719-7031 ( fax ) ] who conrfirmed to me that the cap included the remaining 2.5 + million remaining shares .,4,17,BENEFICIARY,0
+ewt-test-405,I spoke with Mike Collins [ 203-719-8385 ( phone ) and 203-719-7031 ( fax ) ] who conrfirmed to me that the cap included the remaining 2.5 + million remaining shares .,22,23,BENEFICIARY,0
+ewt-test-405,I spoke with Mike Collins [ 203-719-8385 ( phone ) and 203-719-7031 ( fax ) ] who conrfirmed to me that the cap included the remaining 2.5 + million remaining shares .,30,23,BENEFICIARY,0
+ewt-test-409,"My assistant Joanne Rozycki has cell , car numbers to reach me .",1,4,BENEFICIARY,1
+ewt-test-409,"My assistant Joanne Rozycki has cell , car numbers to reach me .",8,4,BENEFICIARY,0
+ewt-test-409,"My assistant Joanne Rozycki has cell , car numbers to reach me .",11,10,BENEFICIARY,0
+ewt-test-417,"The sample includes our "" caveat "" , so it should be fine .",1,2,BENEFICIARY,0
+ewt-test-417,"The sample includes our "" caveat "" , so it should be fine .",5,2,BENEFICIARY,0
+ewt-test-428,I understand you may not have credit approval yet so perhaps we can leave the appropriate sections blank in the meantime .,0,1,BENEFICIARY,1
+ewt-test-436,"I understand the imminent cold weather is making things crazy , so now may not be the best time to be in your way .",0,1,BENEFICIARY,0
+ewt-test-438,I think it will help me very much in my role .,0,1,BENEFICIARY,0
+ewt-test-447,I show that we also had 20.000 at LS HPL for the 13th .,0,1,BENEFICIARY,0
+ewt-test-459,"I need a new lawnmower , so I 'll try to bump it up a little more .",0,1,BENEFICIARY,0
+ewt-test-459,"I need a new lawnmower , so I 'll try to bump it up a little more .",4,1,BENEFICIARY,0
+ewt-test-459,"I need a new lawnmower , so I 'll try to bump it up a little more .",12,11,BENEFICIARY,1
+ewt-test-465,WE AT HOME LOVE IT AT $ 80 +++,0,3,BENEFICIARY,0
+ewt-test-465,WE AT HOME LOVE IT AT $ 80 +++,4,3,BENEFICIARY,0
+ewt-test-465,WE AT HOME LOVE IT AT $ 80 +++,6,3,BENEFICIARY,0
+ewt-test-472,"I hope you do n't mind , but I 've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday .",0,1,BENEFICIARY,0
+ewt-test-472,"I hope you do n't mind , but I 've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday .",2,5,BENEFICIARY,0
+ewt-test-472,"I hope you do n't mind , but I 've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday .",14,13,BENEFICIARY,0
+ewt-test-498,"My weekends seem to be taken up with condo matters , house hunting .",1,2,BENEFICIARY,0
+ewt-test-501,I want to go to the cafeteria for vegetables .,0,1,BENEFICIARY,0
+ewt-test-517,"My weekends seem to be taken up with condo matters , house hunting .",1,2,BENEFICIARY,0
+ewt-test-520,I want to go to the cafeteria for vegetables .,0,1,BENEFICIARY,0
+ewt-test-529,The Dow topped out in February of 1966 at 995 .,1,2,BENEFICIARY,0
+ewt-test-529,The Dow topped out in February of 1966 at 995 .,5,2,BENEFICIARY,0
+ewt-test-529,The Dow topped out in February of 1966 at 995 .,9,2,BENEFICIARY,0
+ewt-test-556,"I talked with Gary Wilson , and he confirmed that the revised values are correct .",0,1,BENEFICIARY,0
+ewt-test-556,"I talked with Gary Wilson , and he confirmed that the revised values are correct .",4,1,BENEFICIARY,0
+ewt-test-556,"I talked with Gary Wilson , and he confirmed that the revised values are correct .",7,8,BENEFICIARY,0
+ewt-test-557,Attached is a spreadsheet that contains the values .,3,0,BENEFICIARY,0
+ewt-test-557,Attached is a spreadsheet that contains the values .,3,5,BENEFICIARY,0
+ewt-test-557,Attached is a spreadsheet that contains the values .,7,5,BENEFICIARY,0
+ewt-test-558,The correction to the working gas includes TWO corrections .,1,6,BENEFICIARY,0
+ewt-test-558,The correction to the working gas includes TWO corrections .,8,6,BENEFICIARY,0
+ewt-test-559,"The results of the February 26th test reduces the working gas by 398,487 MMBTU .",1,7,BENEFICIARY,0
+ewt-test-559,"The results of the February 26th test reduces the working gas by 398,487 MMBTU .",10,7,BENEFICIARY,0
+ewt-test-559,"The results of the February 26th test reduces the working gas by 398,487 MMBTU .",13,7,BENEFICIARY,0
+ewt-test-560,"In addition , there is a reduction of 22,101 MMBTU which is the difference between the SCADA values ( Best Available ) that Anita showed on the February 29th Storage Sheet and the "" official "" February 29th values that Gary Wilson received from MIPS .",1,4,BENEFICIARY,0
+ewt-test-560,"In addition , there is a reduction of 22,101 MMBTU which is the difference between the SCADA values ( Best Available ) that Anita showed on the February 29th Storage Sheet and the "" official "" February 29th values that Gary Wilson received from MIPS .",6,4,BENEFICIARY,0
+ewt-test-560,"In addition , there is a reduction of 22,101 MMBTU which is the difference between the SCADA values ( Best Available ) that Anita showed on the February 29th Storage Sheet and the "" official "" February 29th values that Gary Wilson received from MIPS .",17,24,BENEFICIARY,0
+ewt-test-560,"In addition , there is a reduction of 22,101 MMBTU which is the difference between the SCADA values ( Best Available ) that Anita showed on the February 29th Storage Sheet and the "" official "" February 29th values that Gary Wilson received from MIPS .",23,24,BENEFICIARY,0
+ewt-test-566,i tried to say i was n't that drunk but z was n't having any of that conversation .,0,1,BENEFICIARY,1
+ewt-test-567,she told me that after friday and saturday she felt i was slowly regressing .,0,1,BENEFICIARY,0
+ewt-test-567,she told me that after friday and saturday she felt i was slowly regressing .,2,1,BENEFICIARY,1
+ewt-test-567,she told me that after friday and saturday she felt i was slowly regressing .,10,13,BENEFICIARY,0
+ewt-test-569,she said that was ok .,0,1,BENEFICIARY,0
+ewt-test-570,"Did you get in as much trouble as I did this weekend - Lori seems to think I need to get help - I told her it 's normal to drink all day at a bar , then go to dinner where you do n't know half the people there and proceed to get extremely fucked up",13,14,BENEFICIARY,0
+ewt-test-583,"They offer an exceptional compensation package including a healthy salary , comprehensive benefits program , and ample room for associates to grow within the firm .",0,1,BENEFICIARY,0
+ewt-test-583,"They offer an exceptional compensation package including a healthy salary , comprehensive benefits program , and ample room for associates to grow within the firm .",5,1,BENEFICIARY,0
+ewt-test-583,"They offer an exceptional compensation package including a healthy salary , comprehensive benefits program , and ample room for associates to grow within the firm .",19,21,BENEFICIARY,1
+ewt-test-602,I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind .,0,1,BENEFICIARY,0
+ewt-test-602,I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind .,5,1,BENEFICIARY,0
+ewt-test-602,I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind .,8,1,BENEFICIARY,0
+ewt-test-630,"Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI 's obligations under the Indian Mesa II Renewable Energy Purchase Agreement ( "" PPA "" ) and Green Premium Sharing Agreement ( "" GSPA "" ) .?",5,0,BENEFICIARY,0
+ewt-test-631,The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project ( the project most recently financed by EWC ) and the GPSA guaranty is blacklined against the PPA guaranty .,1,6,BENEFICIARY,0
+ewt-test-631,The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project ( the project most recently financed by EWC ) and the GPSA guaranty is blacklined against the PPA guaranty .,12,6,BENEFICIARY,0
+ewt-test-631,The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project ( the project most recently financed by EWC ) and the GPSA guaranty is blacklined against the PPA guaranty .,14,6,BENEFICIARY,0
+ewt-test-631,The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project ( the project most recently financed by EWC ) and the GPSA guaranty is blacklined against the PPA guaranty .,18,20,BENEFICIARY,0
+ewt-test-631,The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project ( the project most recently financed by EWC ) and the GPSA guaranty is blacklined against the PPA guaranty .,41,43,BENEFICIARY,0
+ewt-test-631,The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project ( the project most recently financed by EWC ) and the GPSA guaranty is blacklined against the PPA guaranty .,47,43,BENEFICIARY,0
+ewt-test-633,We plan to use the same basic form for the Enron guaranty that will be made in favor of EPMI with respect to the seller 's obligations under the PPA .,0,1,BENEFICIARY,0
+ewt-test-648,I enjoyed working with you and wish you the best of everything .,0,1,BENEFICIARY,0
+ewt-test-648,I enjoyed working with you and wish you the best of everything .,7,6,BENEFICIARY,0
+ewt-test-648,I enjoyed working with you and wish you the best of everything .,9,6,BENEFICIARY,0
+ewt-test-652,Events change everyday .,0,1,BENEFICIARY,0
+ewt-test-653,This morning 's paper reports that a rate increase of 40 % may be imposed by the CDWR as early as today and the new bond issue amount is purported to be 16 billion ( rather than the 10 initially discussed ),3,4,BENEFICIARY,0
+ewt-test-653,This morning 's paper reports that a rate increase of 40 % may be imposed by the CDWR as early as today and the new bond issue amount is purported to be 16 billion ( rather than the 10 initially discussed ),8,14,BENEFICIARY,0
+ewt-test-653,This morning 's paper reports that a rate increase of 40 % may be imposed by the CDWR as early as today and the new bond issue amount is purported to be 16 billion ( rather than the 10 initially discussed ),27,29,BENEFICIARY,0
+ewt-test-661,I faxed comments to you on dash .,0,1,BENEFICIARY,0
+ewt-test-661,I faxed comments to you on dash .,2,1,BENEFICIARY,0
+ewt-test-661,I faxed comments to you on dash .,4,1,BENEFICIARY,0
+ewt-test-661,I faxed comments to you on dash .,6,1,BENEFICIARY,0
+ewt-test-681,He looked like a great guy for your group .,0,1,BENEFICIARY,0
+ewt-test-681,He looked like a great guy for your group .,5,1,BENEFICIARY,0
+ewt-test-730,Your suggestion to introduce the concept discussed with one of the Lays is welcomed .,5,3,BENEFICIARY,0
+ewt-test-730,Your suggestion to introduce the concept discussed with one of the Lays is welcomed .,1,13,BENEFICIARY,0
+ewt-test-731,I hope that this would mean that you would remain involved at some level .,0,1,BENEFICIARY,1
+ewt-test-731,I hope that this would mean that you would remain involved at some level .,3,5,BENEFICIARY,0
+ewt-test-731,I hope that this would mean that you would remain involved at some level .,7,9,BENEFICIARY,0
+ewt-test-742,"I thought that since Chonawee has an optimization background , he would be good to have him go to dinner with Dr. Lasdon on Thrusday as well .",0,1,BENEFICIARY,0
+ewt-test-759,I wish I could make it .,0,1,BENEFICIARY,0
+ewt-test-772,There are deals in the Aruba book so I 'm not sure why you are n't picking those up .,2,1,BENEFICIARY,0
+ewt-test-772,There are deals in the Aruba book so I 'm not sure why you are n't picking those up .,6,1,BENEFICIARY,0
+ewt-test-772,There are deals in the Aruba book so I 'm not sure why you are n't picking those up .,13,16,BENEFICIARY,0
+ewt-test-772,There are deals in the Aruba book so I 'm not sure why you are n't picking those up .,17,16,BENEFICIARY,0
+ewt-test-789,The positions needed to be divided to reflect BCF 's .,1,2,BENEFICIARY,0
+ewt-test-789,The positions needed to be divided to reflect BCF 's .,8,7,BENEFICIARY,1
+ewt-test-801,Attached are all live financial deals by risk type .,5,0,BENEFICIARY,0
+ewt-test-830,"An orphaned , two - month old African elephant named Olly received an extremely uplifting Christmas present this year : an airplane ride just for him , courtesy of the International Fund for Animal Welfare and their friends ' The Bateleurs ' .",8,11,BENEFICIARY,1
+ewt-test-830,"An orphaned , two - month old African elephant named Olly received an extremely uplifting Christmas present this year : an airplane ride just for him , courtesy of the International Fund for Animal Welfare and their friends ' The Bateleurs ' .",16,11,BENEFICIARY,0
+ewt-test-856,"The story had brillant battle scenes , lovable heroes and villians , a compelling story line , and it left me dying for the next part of the series :) go to taleofterra.com to learn more aboout it",1,2,BENEFICIARY,0
+ewt-test-856,"The story had brillant battle scenes , lovable heroes and villians , a compelling story line , and it left me dying for the next part of the series :) go to taleofterra.com to learn more aboout it",5,2,BENEFICIARY,0
+ewt-test-856,"The story had brillant battle scenes , lovable heroes and villians , a compelling story line , and it left me dying for the next part of the series :) go to taleofterra.com to learn more aboout it",35,34,BENEFICIARY,0
+ewt-test-863,"WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 ( beta anyway ) September 16 - 18 , this was announced by Gravity CEO Kim Jung - Ryool on either 16th or 17th of july and as i do n't want to take someone 's credit's i got it here ^^ GameSpot",0,1,BENEFICIARY,0
+ewt-test-863,"WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 ( beta anyway ) September 16 - 18 , this was announced by Gravity CEO Kim Jung - Ryool on either 16th or 17th of july and as i do n't want to take someone 's credit's i got it here ^^ GameSpot",3,1,BENEFICIARY,0
+ewt-test-863,"WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 ( beta anyway ) September 16 - 18 , this was announced by Gravity CEO Kim Jung - Ryool on either 16th or 17th of july and as i do n't want to take someone 's credit's i got it here ^^ GameSpot",20,22,BENEFICIARY,0
+ewt-test-873,Key Delhi blast suspect arrested,3,4,BENEFICIARY,0
+ewt-test-874,Police in the Indian capital Delhi say they have arrested the suspected co-ordinator and financier of last month 's deadly bomb blasts in the city .,0,6,BENEFICIARY,0
+ewt-test-874,Police in the Indian capital Delhi say they have arrested the suspected co-ordinator and financier of last month 's deadly bomb blasts in the city .,7,9,BENEFICIARY,0
+ewt-test-874,Police in the Indian capital Delhi say they have arrested the suspected co-ordinator and financier of last month 's deadly bomb blasts in the city .,12,9,BENEFICIARY,0
+ewt-test-875,"Delhi police chief K K Paul named the man as Tariq Ahmed Dar , and said police were hunting for four accomplices .",5,6,BENEFICIARY,0
+ewt-test-875,"Delhi police chief K K Paul named the man as Tariq Ahmed Dar , and said police were hunting for four accomplices .",8,6,BENEFICIARY,0
+ewt-test-875,"Delhi police chief K K Paul named the man as Tariq Ahmed Dar , and said police were hunting for four accomplices .",12,6,BENEFICIARY,0
+ewt-test-875,"Delhi police chief K K Paul named the man as Tariq Ahmed Dar , and said police were hunting for four accomplices .",16,18,BENEFICIARY,1
+ewt-test-876,"He said Mr Dar , 33 , was arrested in Indian - administered Kashmir and belonged to the outlawed Lashkar - e - Toiba militant group .",0,1,BENEFICIARY,0
+ewt-test-876,"He said Mr Dar , 33 , was arrested in Indian - administered Kashmir and belonged to the outlawed Lashkar - e - Toiba militant group .",3,8,BENEFICIARY,0
+ewt-test-878,"I like the way Otto Jespersen ( in ' Language : Its Nature , Development and Origin ' ) aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics :",0,1,BENEFICIARY,0
+ewt-test-878,"I like the way Otto Jespersen ( in ' Language : Its Nature , Development and Origin ' ) aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics :",3,1,BENEFICIARY,0
+ewt-test-878,"I like the way Otto Jespersen ( in ' Language : Its Nature , Development and Origin ' ) aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics :",5,20,BENEFICIARY,0
+ewt-test-878,"I like the way Otto Jespersen ( in ' Language : Its Nature , Development and Origin ' ) aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics :",22,20,BENEFICIARY,0
+ewt-test-878,"I like the way Otto Jespersen ( in ' Language : Its Nature , Development and Origin ' ) aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics :",28,27,BENEFICIARY,0
+ewt-test-882,And a portion of each package or memorial purchased goes to a charity on their database .,2,9,BENEFICIARY,0
+ewt-test-882,And a portion of each package or memorial purchased goes to a charity on their database .,12,9,BENEFICIARY,0
+ewt-test-886,""" ... there is no companion quite so devoted , so communicative , so loving and so mesmerizing as a rat . """,5,3,BENEFICIARY,0
+ewt-test-889,Inhibitory Systems Control the Pattern of Activity in the Cortex,1,2,BENEFICIARY,0
+ewt-test-889,Inhibitory Systems Control the Pattern of Activity in the Cortex,4,2,BENEFICIARY,0
+ewt-test-891,"The findings demonstrate the inhibitory network is central to controlling not only the amplitude , extent and duration of activation of recurrent excitatory cortical networks , but also the precise timing of action potentials , and , thus , network synchronization ... """,1,2,BENEFICIARY,0
+ewt-test-891,"The findings demonstrate the inhibitory network is central to controlling not only the amplitude , extent and duration of activation of recurrent excitatory cortical networks , but also the precise timing of action potentials , and , thus , network synchronization ... """,13,9,BENEFICIARY,0
+ewt-test-896,* Worldwatch Projects Catastrophe Will Be Most Costly Weather - Related Disaster in History *,1,2,BENEFICIARY,0
+ewt-test-904,n3td3v saw this story on BBC News Online and thought you should see it .,0,1,BENEFICIARY,0
+ewt-test-904,n3td3v saw this story on BBC News Online and thought you should see it .,3,1,BENEFICIARY,0
+ewt-test-904,n3td3v saw this story on BBC News Online and thought you should see it .,7,1,BENEFICIARY,0
+ewt-test-905,** Google defies US over search data **,1,2,BENEFICIARY,0
+ewt-test-905,** Google defies US over search data **,3,2,BENEFICIARY,0
+ewt-test-905,** Google defies US over search data **,6,2,BENEFICIARY,0
+ewt-test-921,U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago .,4,5,BENEFICIARY,0
+ewt-test-921,U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago .,6,5,BENEFICIARY,0
+ewt-test-921,U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago .,11,5,BENEFICIARY,0
+ewt-test-921,U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago .,15,5,BENEFICIARY,0
+ewt-test-929,I started this page to help with my boredom .,0,1,BENEFICIARY,0
+ewt-test-929,I started this page to help with my boredom .,3,1,BENEFICIARY,0
+ewt-test-931,I started collecting animations & jokes just to help with my boredom and depression .,0,1,BENEFICIARY,1
+ewt-test-931,I started collecting animations & jokes just to help with my boredom and depression .,3,2,BENEFICIARY,0
+ewt-test-932,I enjoyed the animations and wanted to share them with my friends .,0,1,BENEFICIARY,0
+ewt-test-932,I enjoyed the animations and wanted to share them with my friends .,3,1,BENEFICIARY,0
+ewt-test-932,I enjoyed the animations and wanted to share them with my friends .,8,7,BENEFICIARY,0
+ewt-test-935,I started with 21 email addresses .,0,1,BENEFICIARY,0
+ewt-test-935,I started with 21 email addresses .,5,1,BENEFICIARY,0
+ewt-test-947,People love to buy these cute cuddly little animals for gifts and collectables .,0,1,BENEFICIARY,1
+ewt-test-947,People love to buy these cute cuddly little animals for gifts and collectables .,8,3,BENEFICIARY,0
+ewt-test-953,We have a Full Color Catalog and Wholesale Price List ready to mail to you today !,0,1,BENEFICIARY,0
+ewt-test-953,We have a Full Color Catalog and Wholesale Price List ready to mail to you today !,5,1,BENEFICIARY,0
+ewt-test-956,"We accecpt : Visa , MasterCard , Amex , Dinner s Club / Carte Blanche , & Personal Checks / Money Orders .",0,1,BENEFICIARY,0
+ewt-test-956,"We accecpt : Visa , MasterCard , Amex , Dinner s Club / Carte Blanche , & Personal Checks / Money Orders .",3,1,BENEFICIARY,0
+ewt-test-962,He is regarded as one of the leading Avant - Garde artist of modern calligraphy .,0,2,BENEFICIARY,0
+ewt-test-962,He is regarded as one of the leading Avant - Garde artist of modern calligraphy .,4,2,BENEFICIARY,0
+ewt-test-963,His artworks were selected and exhibited in British Museum in 2002 .,1,3,BENEFICIARY,0
+ewt-test-963,His artworks were selected and exhibited in British Museum in 2002 .,8,3,BENEFICIARY,0
+ewt-test-963,His artworks were selected and exhibited in British Museum in 2002 .,10,3,BENEFICIARY,0
+ewt-test-964,""" Wei has given some virtuoso performances with brush and ink , often incorporating several different techniques into a single work , "" said Gordon S. Barrass , curator of the exhibition .",16,13,BENEFICIARY,0
+ewt-test-964,""" Wei has given some virtuoso performances with brush and ink , often incorporating several different techniques into a single work , "" said Gordon S. Barrass , curator of the exhibition .",26,23,BENEFICIARY,0
+ewt-test-965,"In the world of "" Wei 's magic cubes , "" all seem to be ingeniously planned and tricky .",2,12,BENEFICIARY,0
+ewt-test-965,"In the world of "" Wei 's magic cubes , "" all seem to be ingeniously planned and tricky .",11,12,BENEFICIARY,0
+ewt-test-972,"Wiki Media Foundation , the group behind the Wikipedia online encyclopedia project , said Friday that search giant Google has volunteered to host some of its content on company servers .",2,13,BENEFICIARY,0
+ewt-test-972,"Wiki Media Foundation , the group behind the Wikipedia online encyclopedia project , said Friday that search giant Google has volunteered to host some of its content on company servers .",18,20,BENEFICIARY,0
+ewt-test-972,"Wiki Media Foundation , the group behind the Wikipedia online encyclopedia project , said Friday that search giant Google has volunteered to host some of its content on company servers .",23,22,BENEFICIARY,0
+ewt-test-1002,A girl raises her hand .,1,2,BENEFICIARY,0
+ewt-test-1002,A girl raises her hand .,4,2,BENEFICIARY,0
+ewt-test-1004,""" I 'm afraid not , "" explains Winston , "" that is what we would call a GREAT LOSS . """,8,7,BENEFICIARY,0
+ewt-test-1004,""" I 'm afraid not , "" explains Winston , "" that is what we would call a GREAT LOSS . """,11,12,BENEFICIARY,0
+ewt-test-1008,"In a timid voice , he says : "" If an airplane carrying Winston Peters was blown up by a bomb , THAT would be a tragedy "" .",3,6,BENEFICIARY,0
+ewt-test-1008,"In a timid voice , he says : "" If an airplane carrying Winston Peters was blown up by a bomb , THAT would be a tragedy "" .",5,6,BENEFICIARY,0
+ewt-test-1008,"In a timid voice , he says : "" If an airplane carrying Winston Peters was blown up by a bomb , THAT would be a tragedy "" .",14,12,BENEFICIARY,0
+ewt-test-1008,"In a timid voice , he says : "" If an airplane carrying Winston Peters was blown up by a bomb , THAT would be a tragedy "" .",11,16,BENEFICIARY,0
+ewt-test-1009,""" Wonderful ! "" Winston beams .",4,5,BENEFICIARY,0
+ewt-test-1017,""" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , "" Kistler told SPACE.com .",5,6,BENEFICIARY,0
+ewt-test-1017,""" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , "" Kistler told SPACE.com .",9,6,BENEFICIARY,0
+ewt-test-1017,""" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , "" Kistler told SPACE.com .",9,12,BENEFICIARY,0
+ewt-test-1017,""" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , "" Kistler told SPACE.com .",14,12,BENEFICIARY,0
+ewt-test-1017,""" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , "" Kistler told SPACE.com .",29,30,BENEFICIARY,0
+ewt-test-1017,""" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , "" Kistler told SPACE.com .",31,30,BENEFICIARY,0
+ewt-test-1018,""" Our plans include raising private capital to develop , build , flight test , and operate this Earth - Moon highway for the benefit of the country and the benefit of our investors . """,2,3,BENEFICIARY,0
+ewt-test-1018,""" Our plans include raising private capital to develop , build , flight test , and operate this Earth - Moon highway for the benefit of the country and the benefit of our investors . """,6,4,BENEFICIARY,0
+ewt-test-1018,""" Our plans include raising private capital to develop , build , flight test , and operate this Earth - Moon highway for the benefit of the country and the benefit of our investors . """,21,8,BENEFICIARY,0
+ewt-test-1023,"They want to use LTS to tie into NASA 's vision for Space Exploration , and seem pleased that the White House is moving in that direction .",0,1,BENEFICIARY,0
+ewt-test-1023,"They want to use LTS to tie into NASA 's vision for Space Exploration , and seem pleased that the White House is moving in that direction .",21,23,BENEFICIARY,0
+ewt-test-1024,""" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , "" said Walter Kistler , LTS co-founder and Chairman .",8,16,BENEFICIARY,0
+ewt-test-1024,""" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , "" said Walter Kistler , LTS co-founder and Chairman .",18,16,BENEFICIARY,0
+ewt-test-1024,""" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , "" said Walter Kistler , LTS co-founder and Chairman .",23,20,BENEFICIARY,0
+ewt-test-1024,""" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , "" said Walter Kistler , LTS co-founder and Chairman .",26,27,BENEFICIARY,1
+ewt-test-1024,""" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , "" said Walter Kistler , LTS co-founder and Chairman .",29,27,BENEFICIARY,0
+ewt-test-1024,""" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , "" said Walter Kistler , LTS co-founder and Chairman .",41,39,BENEFICIARY,0
+ewt-test-1035,""" NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight , "" said the letter , signed by NASA Administrator Mike Griffin and the Pentagon 's top space official , ex-astronaut Ron Sega ...",1,3,BENEFICIARY,0
+ewt-test-1035,""" NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight , "" said the letter , signed by NASA Administrator Mike Griffin and the Pentagon 's top space official , ex-astronaut Ron Sega ...",4,3,BENEFICIARY,0
+ewt-test-1035,""" NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight , "" said the letter , signed by NASA Administrator Mike Griffin and the Pentagon 's top space official , ex-astronaut Ron Sega ...",29,27,BENEFICIARY,0
+ewt-test-1036,""" NASA then plans to develop a new 100 - metric - ton - class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon , "" the letter said .",1,3,BENEFICIARY,1
+ewt-test-1036,""" NASA then plans to develop a new 100 - metric - ton - class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon , "" the letter said .",16,5,BENEFICIARY,0
+ewt-test-1036,""" NASA then plans to develop a new 100 - metric - ton - class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon , "" the letter said .",40,41,BENEFICIARY,0
+ewt-test-1051,I had a rose named after me and I was very flattered .,0,1,BENEFICIARY,1
+ewt-test-1051,I had a rose named after me and I was very flattered .,3,1,BENEFICIARY,0
+ewt-test-1055,Santa Claus has the right idea .,1,2,BENEFICIARY,0
+ewt-test-1055,Santa Claus has the right idea .,5,2,BENEFICIARY,0
+ewt-test-1063,I was married by a judge .,0,2,BENEFICIARY,1
+ewt-test-1063,I was married by a judge .,5,2,BENEFICIARY,0
+ewt-test-1067,My wife has a slight impediment in her speech .,1,2,BENEFICIARY,0
+ewt-test-1067,My wife has a slight impediment in her speech .,5,2,BENEFICIARY,0
+ewt-test-1074,"Only Irish coffee provides in a single glass all four essential food groups : alcohol , caffeine , sugar and fat .",2,3,BENEFICIARY,0
+ewt-test-1074,"Only Irish coffee provides in a single glass all four essential food groups : alcohol , caffeine , sugar and fat .",7,3,BENEFICIARY,0
+ewt-test-1074,"Only Irish coffee provides in a single glass all four essential food groups : alcohol , caffeine , sugar and fat .",12,3,BENEFICIARY,0
+ewt-test-1102,Yahoo! Mail has the best spam protection around,1,2,BENEFICIARY,0
+ewt-test-1102,Yahoo! Mail has the best spam protection around,6,2,BENEFICIARY,0
+ewt-test-1130,"I like shrimp , fried , grilled , or steamed .",0,1,BENEFICIARY,0
+ewt-test-1130,"I like shrimp , fried , grilled , or steamed .",2,1,BENEFICIARY,0
+ewt-test-1156,"Well , they have a variety of sports that they play like basketball , soccer , etc .",2,3,BENEFICIARY,0
+ewt-test-1156,"Well , they have a variety of sports that they play like basketball , soccer , etc .",5,3,BENEFICIARY,0
+ewt-test-1156,"Well , they have a variety of sports that they play like basketball , soccer , etc .",5,10,BENEFICIARY,0
+ewt-test-1156,"Well , they have a variety of sports that they play like basketball , soccer , etc .",9,10,BENEFICIARY,0
+ewt-test-1157,Well they play the Wii like me :),1,2,BENEFICIARY,1
+ewt-test-1157,Well they play the Wii like me :),4,2,BENEFICIARY,0
+ewt-test-1157,Well they play the Wii like me :),6,2,BENEFICIARY,0
+ewt-test-1160,"He needs a shower , and he picks his nose all the time .",0,1,BENEFICIARY,0
+ewt-test-1160,"He needs a shower , and he picks his nose all the time .",3,1,BENEFICIARY,0
+ewt-test-1160,"He needs a shower , and he picks his nose all the time .",6,7,BENEFICIARY,1
+ewt-test-1160,"He needs a shower , and he picks his nose all the time .",9,7,BENEFICIARY,1
+ewt-test-1179,They sell these kits in most hobby and craft stores .,0,1,BENEFICIARY,0
+ewt-test-1179,They sell these kits in most hobby and craft stores .,3,1,BENEFICIARY,0
+ewt-test-1179,They sell these kits in most hobby and craft stores .,9,1,BENEFICIARY,0
+ewt-test-1186,Yeah you got ta burn it .. that s the only way,1,2,BENEFICIARY,0
+ewt-test-1186,Yeah you got ta burn it .. that s the only way,5,4,BENEFICIARY,0
+ewt-test-1187,"Yes , they all have secret locator chips , just like gps",2,4,BENEFICIARY,0
+ewt-test-1187,"Yes , they all have secret locator chips , just like gps",7,4,BENEFICIARY,0
+ewt-test-1212,I like my Monkey Brain on a stick for sure .,0,1,BENEFICIARY,0
+ewt-test-1212,I like my Monkey Brain on a stick for sure .,4,1,BENEFICIARY,0
+ewt-test-1212,I like my Monkey Brain on a stick for sure .,9,1,BENEFICIARY,0
+ewt-test-1214,I mean besides me of course .,0,1,BENEFICIARY,0
+ewt-test-1214,I mean besides me of course .,3,1,BENEFICIARY,0
+ewt-test-1216,Someone had to be first .,0,1,BENEFICIARY,0
+ewt-test-1220,I love Air France !,0,1,BENEFICIARY,0
+ewt-test-1220,I love Air France !,3,1,BENEFICIARY,0
+ewt-test-1223,Plus you land in a preferential terminal ...,1,2,BENEFICIARY,1
+ewt-test-1223,Plus you land in a preferential terminal ...,6,2,BENEFICIARY,0
+ewt-test-1241,I need something reliable and good looking .,0,1,BENEFICIARY,0
+ewt-test-1241,I need something reliable and good looking .,2,1,BENEFICIARY,0
+ewt-test-1242,Prosperity POS makes the best pos systems .,1,2,BENEFICIARY,0
+ewt-test-1242,Prosperity POS makes the best pos systems .,6,2,BENEFICIARY,0
+ewt-test-1243,I use them for my restaurant and always get compliments on the sleek look of the mac system not to mention how good the support is .,0,1,BENEFICIARY,0
+ewt-test-1243,I use them for my restaurant and always get compliments on the sleek look of the mac system not to mention how good the support is .,2,1,BENEFICIARY,0
+ewt-test-1243,I use them for my restaurant and always get compliments on the sleek look of the mac system not to mention how good the support is .,5,1,BENEFICIARY,0
+ewt-test-1248,I like music very loud and with a lot of bass .,0,1,BENEFICIARY,0
+ewt-test-1248,I like music very loud and with a lot of bass .,2,1,BENEFICIARY,0
+ewt-test-1263,"Well there s Mc. Donald s , Taco Bell , Burger King .....",4,2,BENEFICIARY,0
+ewt-test-1308,I prefer Royal Caribbean out of all these .,0,1,BENEFICIARY,0
+ewt-test-1308,I prefer Royal Caribbean out of all these .,3,1,BENEFICIARY,0
+ewt-test-1308,I prefer Royal Caribbean out of all these .,7,1,BENEFICIARY,0
+ewt-test-1309,There is so much to do onboard .,3,1,BENEFICIARY,0
+ewt-test-1313,"NCL is a notch below either , in terms of quality and service .",0,1,BENEFICIARY,0
+ewt-test-1313,"NCL is a notch below either , in terms of quality and service .",5,1,BENEFICIARY,0
+ewt-test-1313,"NCL is a notch below either , in terms of quality and service .",8,1,BENEFICIARY,0
+ewt-test-1315,Mine does .,0,1,BENEFICIARY,0
+ewt-test-1316,I have the HTC Evo .,0,1,BENEFICIARY,0
+ewt-test-1316,I have the HTC Evo .,4,1,BENEFICIARY,0
+ewt-test-1321,""" In Argentina , beef is revered , respected , and praised .",2,6,BENEFICIARY,0
+ewt-test-1321,""" In Argentina , beef is revered , respected , and praised .",4,6,BENEFICIARY,0
+ewt-test-1339,"The actual word "" MAD "" has to be on the cover and incorporated into the image .",2,6,BENEFICIARY,0
+ewt-test-1347,They chased the Communists out of the capital ( Hanoi ) and retook control .,0,1,BENEFICIARY,1
+ewt-test-1347,They chased the Communists out of the capital ( Hanoi ) and retook control .,3,1,BENEFICIARY,0
+ewt-test-1347,They chased the Communists out of the capital ( Hanoi ) and retook control .,7,1,BENEFICIARY,0
+ewt-test-1347,They chased the Communists out of the capital ( Hanoi ) and retook control .,13,12,BENEFICIARY,1
+ewt-test-1349,You need to check out the French Indochina War ( 1946 - 1954 ) not the Vietnam War ( 1957 - 1975 ) .,0,1,BENEFICIARY,0
+ewt-test-1349,You need to check out the French Indochina War ( 1946 - 1954 ) not the Vietnam War ( 1957 - 1975 ) .,8,3,BENEFICIARY,0
+ewt-test-1352,I assume you are talking about a pacman frog .,0,1,BENEFICIARY,0
+ewt-test-1352,I assume you are talking about a pacman frog .,2,4,BENEFICIARY,0
+ewt-test-1364,There are plenty of cheap restaurants .,2,1,BENEFICIARY,0
+ewt-test-1377,I need suggestions for San Francisco restaurants with good food and good catering service .?,0,1,BENEFICIARY,0
+ewt-test-1377,I need suggestions for San Francisco restaurants with good food and good catering service .?,2,1,BENEFICIARY,0
+ewt-test-1378,I need suggestions on restaurants in San Francisco with good food and good catering service .,0,1,BENEFICIARY,0
+ewt-test-1378,I need suggestions on restaurants in San Francisco with good food and good catering service .,2,1,BENEFICIARY,0
+ewt-test-1379,I have two upcoming events one is for 200 and another is for 21 .,0,1,BENEFICIARY,0
+ewt-test-1379,I have two upcoming events one is for 200 and another is for 21 .,4,1,BENEFICIARY,0
+ewt-test-1385,prime ribs have very good food but it s super expensive,1,2,BENEFICIARY,0
+ewt-test-1385,prime ribs have very good food but it s super expensive,5,2,BENEFICIARY,0
+ewt-test-1389,"Ounces measure weight , pints measure volume .",0,1,BENEFICIARY,0
+ewt-test-1389,"Ounces measure weight , pints measure volume .",2,1,BENEFICIARY,0
+ewt-test-1389,"Ounces measure weight , pints measure volume .",4,5,BENEFICIARY,0
+ewt-test-1389,"Ounces measure weight , pints measure volume .",6,5,BENEFICIARY,0
+ewt-test-1397,i love The Script and know the re from iraland .,0,1,BENEFICIARY,0
+ewt-test-1397,i love The Script and know the re from iraland .,3,1,BENEFICIARY,0
+ewt-test-1399,"The thing about The Script is they do not sound that Irish , I was surprised to hear they were from Dublin .",1,5,BENEFICIARY,0
+ewt-test-1399,"The thing about The Script is they do not sound that Irish , I was surprised to hear they were from Dublin .",6,9,BENEFICIARY,0
+ewt-test-1399,"The thing about The Script is they do not sound that Irish , I was surprised to hear they were from Dublin .",13,15,BENEFICIARY,0
+ewt-test-1401,I think you will be pleased .,0,1,BENEFICIARY,0
+ewt-test-1402,"I doubt you will get a sensible answer in the "" TRAVEL "" section .",0,1,BENEFICIARY,0
+ewt-test-1404,And there 's nothing distinctly Irish about them .,3,2,BENEFICIARY,0
+ewt-test-1414,they do some good waterproof raincoats,0,1,BENEFICIARY,0
+ewt-test-1414,they do some good waterproof raincoats,5,1,BENEFICIARY,0
+ewt-test-1422,All you can do is take each section ( individual video ) and edit them together on software .,0,4,BENEFICIARY,0
+ewt-test-1422,All you can do is take each section ( individual video ) and edit them together on software .,14,13,BENEFICIARY,0
+ewt-test-1423,I have a Nacho Libre question .?,0,1,BENEFICIARY,0
+ewt-test-1423,I have a Nacho Libre question .?,5,1,BENEFICIARY,0
+ewt-test-1425,"I know it s in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me .",0,1,BENEFICIARY,0
+ewt-test-1425,"I know it s in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me .",12,13,BENEFICIARY,1
+ewt-test-1425,"I know it s in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me .",15,13,BENEFICIARY,0
+ewt-test-1425,"I know it s in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me .",22,24,BENEFICIARY,0
+ewt-test-1425,"I know it s in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me .",25,24,BENEFICIARY,0
+ewt-test-1430,"Nacho Libre is suppose to be inspired in Mexicans , not in Argentineans .",1,3,BENEFICIARY,0
+ewt-test-1436,"Any of the tip - top places have great ice - cream , get them to mix it up .",0,7,BENEFICIARY,0
+ewt-test-1436,"Any of the tip - top places have great ice - cream , get them to mix it up .",11,7,BENEFICIARY,0
+ewt-test-1436,"Any of the tip - top places have great ice - cream , get them to mix it up .",17,16,BENEFICIARY,0
+ewt-test-1446,Hackney 's has a great burger formula that started about 80 years ago .,0,2,BENEFICIARY,0
+ewt-test-1446,Hackney 's has a great burger formula that started about 80 years ago .,6,2,BENEFICIARY,0
+ewt-test-1446,Hackney 's has a great burger formula that started about 80 years ago .,6,8,BENEFICIARY,0
+ewt-test-1467,"i doing a research paper on donatello and i notice that there are two statues of David , a bronze one and marble one .",0,1,BENEFICIARY,1
+ewt-test-1467,"i doing a research paper on donatello and i notice that there are two statues of David , a bronze one and marble one .",4,1,BENEFICIARY,0
+ewt-test-1467,"i doing a research paper on donatello and i notice that there are two statues of David , a bronze one and marble one .",8,9,BENEFICIARY,0
+ewt-test-1474,"I have a friend out in Chicago this week , and I am trying to remember the name of an awesome hibachi style restaurant i visited while out there a couple years ago .",0,1,BENEFICIARY,0
+ewt-test-1474,"I have a friend out in Chicago this week , and I am trying to remember the name of an awesome hibachi style restaurant i visited while out there a couple years ago .",3,1,BENEFICIARY,0
+ewt-test-1474,"I have a friend out in Chicago this week , and I am trying to remember the name of an awesome hibachi style restaurant i visited while out there a couple years ago .",17,15,BENEFICIARY,0
+ewt-test-1474,"I have a friend out in Chicago this week , and I am trying to remember the name of an awesome hibachi style restaurant i visited while out there a couple years ago .",24,25,BENEFICIARY,0
+ewt-test-1475,I think it was in the Lincoln Square area but do n't quote me on that .,0,1,BENEFICIARY,0
+ewt-test-1475,I think it was in the Lincoln Square area but do n't quote me on that .,13,12,BENEFICIARY,0
+ewt-test-1476,It's ' gimmick ' was that you fill your bowl cafeteria - style from raw ingredients and leave it on the counter with a chopstick listing your table number on it .,2,4,BENEFICIARY,0
+ewt-test-1476,It's ' gimmick ' was that you fill your bowl cafeteria - style from raw ingredients and leave it on the counter with a chopstick listing your table number on it .,6,7,BENEFICIARY,0
+ewt-test-1476,It's ' gimmick ' was that you fill your bowl cafeteria - style from raw ingredients and leave it on the counter with a chopstick listing your table number on it .,9,7,BENEFICIARY,0
+ewt-test-1476,It's ' gimmick ' was that you fill your bowl cafeteria - style from raw ingredients and leave it on the counter with a chopstick listing your table number on it .,28,25,BENEFICIARY,0
+ewt-test-1477,"Four guys around a large square open hibachi cook your food , and when it 's finished a server brings it to your table .",1,8,BENEFICIARY,0
+ewt-test-1477,"Four guys around a large square open hibachi cook your food , and when it 's finished a server brings it to your table .",10,8,BENEFICIARY,0
+ewt-test-1477,"Four guys around a large square open hibachi cook your food , and when it 's finished a server brings it to your table .",14,16,BENEFICIARY,0
+ewt-test-1477,"Four guys around a large square open hibachi cook your food , and when it 's finished a server brings it to your table .",18,19,BENEFICIARY,0
+ewt-test-1477,"Four guys around a large square open hibachi cook your food , and when it 's finished a server brings it to your table .",20,19,BENEFICIARY,0
+ewt-test-1498,I shoot a t1i and have n't had such an issue .,0,1,BENEFICIARY,0
+ewt-test-1498,I shoot a t1i and have n't had such an issue .,3,1,BENEFICIARY,0
+ewt-test-1507,My friend goes to the Phils every 6 months or so and she has found that Korean Air has had the cheapest fares lately .,1,2,BENEFICIARY,0
+ewt-test-1507,My friend goes to the Phils every 6 months or so and she has found that Korean Air has had the cheapest fares lately .,5,2,BENEFICIARY,0
+ewt-test-1511,"On my last 6 trips here from the states I used "" Fly genesis "" based in Seattle , Wa .",4,10,BENEFICIARY,0
+ewt-test-1511,"On my last 6 trips here from the states I used "" Fly genesis "" based in Seattle , Wa .",9,10,BENEFICIARY,0
+ewt-test-1511,"On my last 6 trips here from the states I used "" Fly genesis "" based in Seattle , Wa .",13,10,BENEFICIARY,0
+ewt-test-1512,They gave the best service & rates I could find .,0,1,BENEFICIARY,0
+ewt-test-1512,They gave the best service & rates I could find .,4,1,BENEFICIARY,0
+ewt-test-1521,"Most of the deals let you eat for 500 ff , and some of the deals are even free .",0,4,BENEFICIARY,0
+ewt-test-1521,"Most of the deals let you eat for 500 ff , and some of the deals are even free .",5,6,BENEFICIARY,1
+ewt-test-1551,The pancakes are to die for .,1,2,BENEFICIARY,0
+ewt-test-1569,they recovered the pics geeksquad deleted .,0,1,BENEFICIARY,0
+ewt-test-1569,they recovered the pics geeksquad deleted .,3,1,BENEFICIARY,0
+ewt-test-1569,they recovered the pics geeksquad deleted .,4,5,BENEFICIARY,0
+ewt-test-1606,The best Supermarket in Bay Ridge have everything what a customer needs .,2,6,BENEFICIARY,0
+ewt-test-1606,The best Supermarket in Bay Ridge have everything what a customer needs .,7,6,BENEFICIARY,0
+ewt-test-1619,We got upgraded to a corner suite !,0,1,BENEFICIARY,1
+ewt-test-1625,I love this place lots of people to talk to and school is across the street !,0,1,BENEFICIARY,0
+ewt-test-1625,I love this place lots of people to talk to and school is across the street !,3,1,BENEFICIARY,0
+ewt-test-1627,Who does that ?!,0,1,BENEFICIARY,0
+ewt-test-1627,Who does that ?!,2,1,BENEFICIARY,0
+ewt-test-1641,Very good hospitality offered .!,2,3,BENEFICIARY,0
+ewt-test-1648,"I had to get a permit here , it was cool",0,1,BENEFICIARY,1
+ewt-test-1667,My 8 year old daughter loves this place .,4,5,BENEFICIARY,1
+ewt-test-1667,My 8 year old daughter loves this place .,7,5,BENEFICIARY,0
+ewt-test-1678,"I appreciate the quick , good service and the reasonable prices and will definitely use American Pride Irrigation & Landscaping again .",0,1,BENEFICIARY,0
+ewt-test-1678,"I appreciate the quick , good service and the reasonable prices and will definitely use American Pride Irrigation & Landscaping again .",6,1,BENEFICIARY,0
+ewt-test-1679,"I like I Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",0,1,BENEFICIARY,0
+ewt-test-1679,"I like I Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",8,1,BENEFICIARY,0
+ewt-test-1679,"I like I Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",2,3,BENEFICIARY,0
+ewt-test-1679,"I like I Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",10,11,BENEFICIARY,0
+ewt-test-1679,"I like I Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",12,11,BENEFICIARY,0
+ewt-test-1681,"There is no lower rating for Noonan 's Liquor , owners and employees .",4,1,BENEFICIARY,0
+ewt-test-1689,"Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky",0,4,BENEFICIARY,1
+ewt-test-1689,"Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky",21,22,BENEFICIARY,0
+ewt-test-1691,These guys took Customer Service 101 from a Neanderthal .,1,2,BENEFICIARY,0
+ewt-test-1691,These guys took Customer Service 101 from a Neanderthal .,4,2,BENEFICIARY,0
+ewt-test-1691,These guys took Customer Service 101 from a Neanderthal .,8,2,BENEFICIARY,0
+ewt-test-1708,The workers sped up and down the street with no mind to the small children playing .,1,2,BENEFICIARY,0
+ewt-test-1708,The workers sped up and down the street with no mind to the small children playing .,7,2,BENEFICIARY,0
+ewt-test-1708,The workers sped up and down the street with no mind to the small children playing .,10,2,BENEFICIARY,0
+ewt-test-1717,Daniel and his assistant both did a great job .,0,5,BENEFICIARY,0
+ewt-test-1717,Daniel and his assistant both did a great job .,8,5,BENEFICIARY,0
+ewt-test-1721,They treat there employees with respect and concern and expect that they will extend the same politeness to there customers .,0,1,BENEFICIARY,0
+ewt-test-1721,They treat there employees with respect and concern and expect that they will extend the same politeness to there customers .,3,1,BENEFICIARY,0
+ewt-test-1721,They treat there employees with respect and concern and expect that they will extend the same politeness to there customers .,5,1,BENEFICIARY,0
+ewt-test-1721,They treat there employees with respect and concern and expect that they will extend the same politeness to there customers .,11,13,BENEFICIARY,0
+ewt-test-1721,They treat there employees with respect and concern and expect that they will extend the same politeness to there customers .,16,13,BENEFICIARY,0
+ewt-test-1741,I worked with Sam Mones who took great care of me .,0,1,BENEFICIARY,0
+ewt-test-1741,I worked with Sam Mones who took great care of me .,4,1,BENEFICIARY,0
+ewt-test-1748,"Sanctuary serves delicious , somewhat healthy food in a great restaurant / fast food style .",0,1,BENEFICIARY,0
+ewt-test-1748,"Sanctuary serves delicious , somewhat healthy food in a great restaurant / fast food style .",6,1,BENEFICIARY,0
+ewt-test-1748,"Sanctuary serves delicious , somewhat healthy food in a great restaurant / fast food style .",14,1,BENEFICIARY,0
+ewt-test-1750,And they deliver !,1,2,BENEFICIARY,0
+ewt-test-1756,The place smells and the owner is very very rude !,1,2,BENEFICIARY,0
+ewt-test-1760,Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism !,1,2,BENEFICIARY,0
+ewt-test-1760,Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism !,3,2,BENEFICIARY,1
+ewt-test-1760,Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism !,6,2,BENEFICIARY,0
+ewt-test-1761,Her flexibility and accessibility made for an easy closing .,1,4,BENEFICIARY,0
+ewt-test-1761,Her flexibility and accessibility made for an easy closing .,8,4,BENEFICIARY,0
+ewt-test-1765,I have no complaints about the service I received .,0,1,BENEFICIARY,0
+ewt-test-1765,I have no complaints about the service I received .,3,1,BENEFICIARY,0
+ewt-test-1768,THE TEACHING THERE SUCKS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,1,3,BENEFICIARY,0
+ewt-test-1779,We love everything about the fence .,0,1,BENEFICIARY,0
+ewt-test-1779,We love everything about the fence .,2,1,BENEFICIARY,0
+ewt-test-1793,"A fast service , saved a bad situation getting a lot worse .",2,4,BENEFICIARY,0
+ewt-test-1793,"A fast service , saved a bad situation getting a lot worse .",7,4,BENEFICIARY,0
+ewt-test-1799,"Paula has an amazing gift for creativity , vision and the ability to combine art to / with commercial purpose .",0,1,BENEFICIARY,0
+ewt-test-1799,"Paula has an amazing gift for creativity , vision and the ability to combine art to / with commercial purpose .",4,1,BENEFICIARY,0
+ewt-test-1799,"Paula has an amazing gift for creativity , vision and the ability to combine art to / with commercial purpose .",14,13,BENEFICIARY,0
+ewt-test-1813,These guys know what they 're doing !,1,2,BENEFICIARY,0
+ewt-test-1816,"Fried rice has NO flavor , it literally taste like water .",1,2,BENEFICIARY,0
+ewt-test-1816,"Fried rice has NO flavor , it literally taste like water .",4,2,BENEFICIARY,0
+ewt-test-1819,i wish the other utilities i had to set up had people to work with like this ..,0,1,BENEFICIARY,0
+ewt-test-1830,I use their limo services for all of my airport car services and airport transportation needs,0,1,BENEFICIARY,0
+ewt-test-1830,I use their limo services for all of my airport car services and airport transportation needs,4,1,BENEFICIARY,0
+ewt-test-1830,I use their limo services for all of my airport car services and airport transportation needs,6,1,BENEFICIARY,0
+ewt-test-1832,"They specialize in financial institutions , medical , and retail projects .",0,1,BENEFICIARY,1
+ewt-test-1832,"They specialize in financial institutions , medical , and retail projects .",4,1,BENEFICIARY,0
+ewt-test-1833,These guys know what they 're doing and helped me in all phases of our project .,1,2,BENEFICIARY,0
+ewt-test-1836,"They have fresh flowers , lasted a long while in the vase , and the two ladies at the shop know the business well .",0,1,BENEFICIARY,0
+ewt-test-1836,"They have fresh flowers , lasted a long while in the vase , and the two ladies at the shop know the business well .",3,1,BENEFICIARY,0
+ewt-test-1837,I had no problem with my delivery .,0,1,BENEFICIARY,0
+ewt-test-1837,I had no problem with my delivery .,3,1,BENEFICIARY,0
+ewt-test-1840,I think this location is no longer in business .,0,1,BENEFICIARY,0
+ewt-test-1844,MFJ Inc transformed our run down back yard into a place of beauty .,1,2,BENEFICIARY,0
+ewt-test-1844,MFJ Inc transformed our run down back yard into a place of beauty .,7,2,BENEFICIARY,0
+ewt-test-1844,MFJ Inc transformed our run down back yard into a place of beauty .,10,2,BENEFICIARY,0
+ewt-test-1845,"The work was completed within one week , and everything was cleaned up on completion .",1,3,BENEFICIARY,0
+ewt-test-1845,"The work was completed within one week , and everything was cleaned up on completion .",6,3,BENEFICIARY,0
+ewt-test-1845,"The work was completed within one week , and everything was cleaned up on completion .",9,11,BENEFICIARY,1
+ewt-test-1853,This place had the worst tasting pizza I have ever tasted it was possible the worst food I 've ever eaten .,1,2,BENEFICIARY,0
+ewt-test-1853,This place had the worst tasting pizza I have ever tasted it was possible the worst food I 've ever eaten .,6,2,BENEFICIARY,0
+ewt-test-1853,This place had the worst tasting pizza I have ever tasted it was possible the worst food I 've ever eaten .,7,10,BENEFICIARY,1
+ewt-test-1853,This place had the worst tasting pizza I have ever tasted it was possible the worst food I 've ever eaten .,17,20,BENEFICIARY,1
+ewt-test-1862,I have 3 children there and they are the Best .,0,1,BENEFICIARY,0
+ewt-test-1862,I have 3 children there and they are the Best .,3,1,BENEFICIARY,0
+ewt-test-1866,Bisconti wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !,0,1,BENEFICIARY,0
+ewt-test-1866,Bisconti wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !,3,1,BENEFICIARY,0
+ewt-test-1866,Bisconti wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !,8,6,BENEFICIARY,1
+ewt-test-1866,Bisconti wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !,11,12,BENEFICIARY,0
+ewt-test-1866,Bisconti wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !,13,12,BENEFICIARY,1
+ewt-test-1870,This place offers a great manicure and pedicure .,1,2,BENEFICIARY,0
+ewt-test-1870,This place offers a great manicure and pedicure .,5,2,BENEFICIARY,0
+ewt-test-1871,My nails looked great for the better part of 2 weeks !,1,2,BENEFICIARY,0
+ewt-test-1871,My nails looked great for the better part of 2 weeks !,7,2,BENEFICIARY,0
+ewt-test-1877,"I had to dig in a bag to find one nice feather , what a joke !",0,1,BENEFICIARY,0
+ewt-test-1883,I own a property management firm and need a contractor with the credentials that Farrell Electric has .,0,1,BENEFICIARY,0
+ewt-test-1883,I own a property management firm and need a contractor with the credentials that Farrell Electric has .,5,1,BENEFICIARY,0
+ewt-test-1888,Good location and off road parking made our stay very convenient .,1,6,BENEFICIARY,0
+ewt-test-1888,Good location and off road parking made our stay very convenient .,8,6,BENEFICIARY,0
+ewt-test-1889,These guys do great work at VERY reasonable prices .,1,2,BENEFICIARY,0
+ewt-test-1889,These guys do great work at VERY reasonable prices .,4,2,BENEFICIARY,0
+ewt-test-1889,These guys do great work at VERY reasonable prices .,8,2,BENEFICIARY,0
+ewt-test-1908,I think the women at this salon know that their business is based primarily from referrals . :),0,1,BENEFICIARY,0
+ewt-test-1908,I think the women at this salon know that their business is based primarily from referrals . :),10,12,BENEFICIARY,0
+ewt-test-1929,I love them !!!,0,1,BENEFICIARY,1
+ewt-test-1929,I love them !!!,2,1,BENEFICIARY,0
+ewt-test-1942,I give this place 11 / 10 .,0,1,BENEFICIARY,0
+ewt-test-1942,I give this place 11 / 10 .,3,1,BENEFICIARY,0
+ewt-test-1942,I give this place 11 / 10 .,4,1,BENEFICIARY,0
+ewt-test-1953,We order take out from here all the time and we are never disappointed .,0,1,BENEFICIARY,0
+ewt-test-1953,We order take out from here all the time and we are never disappointed .,3,1,BENEFICIARY,0
+ewt-test-1953,We order take out from here all the time and we are never disappointed .,5,1,BENEFICIARY,0
+ewt-test-1961,They picked my car up in Yarmouth and towed to Bath for a great price .,0,1,BENEFICIARY,0
+ewt-test-1961,They picked my car up in Yarmouth and towed to Bath for a great price .,3,1,BENEFICIARY,0
+ewt-test-1961,They picked my car up in Yarmouth and towed to Bath for a great price .,6,1,BENEFICIARY,0
+ewt-test-1973,I found them extremely professional and would highly recommend them .,0,1,BENEFICIARY,0
+ewt-test-1973,I found them extremely professional and would highly recommend them .,2,1,BENEFICIARY,0
+ewt-test-1981,"I used to take my cars there all the time , but management changes hands too frequently , the service has been slow , and they often try to "" add on "" extra services , which sometimes is not needed .",0,1,BENEFICIARY,1
+ewt-test-1981,"I used to take my cars there all the time , but management changes hands too frequently , the service has been slow , and they often try to "" add on "" extra services , which sometimes is not needed .",12,13,BENEFICIARY,1
+ewt-test-1981,"I used to take my cars there all the time , but management changes hands too frequently , the service has been slow , and they often try to "" add on "" extra services , which sometimes is not needed .",14,13,BENEFICIARY,0
+ewt-test-1981,"I used to take my cars there all the time , but management changes hands too frequently , the service has been slow , and they often try to "" add on "" extra services , which sometimes is not needed .",34,30,BENEFICIARY,1
+ewt-test-1989,She makes every item fit you perfectly .,0,1,BENEFICIARY,0
+ewt-test-1989,She makes every item fit you perfectly .,3,4,BENEFICIARY,0
+ewt-test-1989,She makes every item fit you perfectly .,5,4,BENEFICIARY,0
+ewt-test-2004,I remain unhappy .,0,1,BENEFICIARY,0
+ewt-test-2013,"The setting feels like a Sushi bar in NYC ; small , cozy , but with flair .",1,2,BENEFICIARY,0
+ewt-test-2013,"The setting feels like a Sushi bar in NYC ; small , cozy , but with flair .",6,2,BENEFICIARY,0
+ewt-test-2018,I went to this urgent care center and was blown away with their service .,0,1,BENEFICIARY,1
+ewt-test-2018,I went to this urgent care center and was blown away with their service .,6,1,BENEFICIARY,0
+ewt-test-2035,The investors put big bucks into the building but are clueless about what makes a good dining or bar experience .,1,2,BENEFICIARY,0
+ewt-test-2035,The investors put big bucks into the building but are clueless about what makes a good dining or bar experience .,4,2,BENEFICIARY,0
+ewt-test-2035,The investors put big bucks into the building but are clueless about what makes a good dining or bar experience .,7,2,BENEFICIARY,0
+ewt-test-2045,Michael helped shoot the majority of my firm 's website and we could not have been happier .,0,1,BENEFICIARY,0
+ewt-test-2045,Michael helped shoot the majority of my firm 's website and we could not have been happier .,4,2,BENEFICIARY,0
+ewt-test-2055,I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook .,0,1,BENEFICIARY,0
+ewt-test-2055,I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook .,5,1,BENEFICIARY,0
+ewt-test-2055,I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook .,9,1,BENEFICIARY,0
+ewt-test-2055,I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook .,15,17,BENEFICIARY,0
+ewt-test-2055,I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook .,20,17,BENEFICIARY,0
+ewt-test-2062,"We tried 4 different style of donuts , they were all the same when it came to quality .",0,1,BENEFICIARY,0
+ewt-test-2062,"We tried 4 different style of donuts , they were all the same when it came to quality .",4,1,BENEFICIARY,0
+ewt-test-2064,"I live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal .",0,1,BENEFICIARY,0
+ewt-test-2064,"I live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal .",4,1,BENEFICIARY,0
+ewt-test-2068,I called over the weekend due to clogged kitchen sink .,0,1,BENEFICIARY,0
+ewt-test-2068,I called over the weekend due to clogged kitchen sink .,4,1,BENEFICIARY,0
+ewt-test-2068,I called over the weekend due to clogged kitchen sink .,9,1,BENEFICIARY,0
+ewt-test-2075,Deep tissue massage helps with pain in neck and shoulders,2,3,BENEFICIARY,0
+ewt-test-2075,Deep tissue massage helps with pain in neck and shoulders,5,3,BENEFICIARY,0
+ewt-test-2076,Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area .,0,1,BENEFICIARY,0
+ewt-test-2076,Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area .,4,1,BENEFICIARY,0
+ewt-test-2076,Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area .,4,8,BENEFICIARY,0
+ewt-test-2076,Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area .,10,8,BENEFICIARY,1
+ewt-test-2076,Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area .,18,17,BENEFICIARY,0
+ewt-test-2077,"He listens and is excellent in diagnosing , addressing and explaining the specific issues and suggesting exercises to use .",0,1,BENEFICIARY,0
+ewt-test-2077,"He listens and is excellent in diagnosing , addressing and explaining the specific issues and suggesting exercises to use .",13,6,BENEFICIARY,0
+ewt-test-2077,"He listens and is excellent in diagnosing , addressing and explaining the specific issues and suggesting exercises to use .",16,15,BENEFICIARY,0

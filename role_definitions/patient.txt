@@ -1,0 +1,38 @@
+SELECT DISTINCT ?node
+WHERE { ?node ?edge ?arg ;
+             <domain> <semantics> ;
+             <type>   <predicate> ;
+             <pred-particular> ?predparticular
+             FILTER ( ?predparticular > 0 ) .
+       ?arg  <domain> <semantics> ;
+             <type>   <argument>  ;
+             <arg-particular> ?argparticular
+             FILTER ( ?argparticular > 0 ) .
+       { ?edge <existed_before> ?existed_before
+             FILTER ( ?existed_before > 0 )
+       }
+       { ?edge <volition> ?volition
+             FILTER ( ?volition <= 0 )
+       }
+       { ?edge <instigation> ?instigation
+            FILTER ( ?instigation <= 0 )
+       }
+       { ?edge <change_of_possession> ?change_of_possession
+             FILTER ( ?change_of_possession > 0 )
+       } UNION
+       { ?edge <change_of_state> ?change_of_state
+             FILTER ( ?change_of_state > 0 )
+       } UNION
+       { ?edge <existed_before> ?existed_before
+             FILTER ( ?existed_before > 0 )
+       }
+       { ?edge <existed_after> ?existed_after
+            FILTER ( ?existed_after <= 0 )
+       } UNION
+       { ?edge <existed_before> ?existed_before
+             FILTER ( ?existed_before <= 0 )
+       }
+       { ?edge <existed_after> ?existed_after
+            FILTER ( ?existed_after > 0 )
+       }
+     }

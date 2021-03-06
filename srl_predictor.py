@@ -2,6 +2,7 @@ from allennlp.predictors.predictor import Predictor
 from allennlp.common.util import JsonDict, sanitize
 from allennlp.data import Instance
 from typing import Dict, List, Iterator, Any
+import torch
 
 
 @Predictor.register("srl_predictor")
@@ -14,7 +15,8 @@ class SRLPredictor(Predictor):
         # Add more instance information
         for output, instance in zip(outputs, instances):
             output["tokens"] = [str(token) for token in instance.fields["tokens"].tokens]
-            output["predicted"] = output["logits"].argmax()
+            output["prediction_probs"] = torch.sigmoid(torch.tensor(output["logits"]))
+            output["predicted"] = output["prediction_probs"].argmax()
             output["labels"] = instance.fields["label"].label
 
         return sanitize(outputs)

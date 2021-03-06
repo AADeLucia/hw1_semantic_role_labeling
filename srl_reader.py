@@ -31,11 +31,12 @@ class SRLDatasetReader(DatasetReader):
             for i, row in enumerate(reader):
                 if i == 0:  # Skip header
                     continue
-                tokens = row[0].strip().split()
-                argument_idx = int(row[1].strip())
-                predicate_idx = int(row[2].strip())
-                role = row[3].strip()
-                label = row[4].strip()
+                sentence_id = row[0].strip().split()
+                tokens = row[1].strip().split()
+                argument_idx = int(row[2].strip())
+                predicate_idx = int(row[3].strip())
+                role = row[4].strip()
+                label = row[5].strip()
                 yield self.text_to_instance(tokens, argument_idx, predicate_idx, label)
 
     def text_to_instance(self,
