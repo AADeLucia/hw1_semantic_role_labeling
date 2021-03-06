@@ -1,0 +1,26 @@
+SELECT DISTINCT ?node
+WHERE { ?node ?edge ?arg ;
+             <domain> <semantics> ;
+             <type>   <predicate> ;
+             <pred-particular> ?predparticular
+             FILTER ( ?predparticular > 0 ) .
+       ?arg  <domain> <semantics> ;
+             <type>   <argument>  ;
+             <arg-particular> ?argparticular
+             FILTER ( ?argparticular > 0 ) .
+       { ?edge <existed_before> ?existed_before
+             FILTER ( ?existed_before > 0 )
+       }
+       { ?edge <existed_after> ?existed_after
+             FILTER ( ?existed_after > 0 )
+       }
+       { ?edge <existed_during> ?existed_during
+             FILTER ( ?existed_during > 0 )
+       }
+       { ?edge <change_of_location> ?change_of_location
+             FILTER ( ?change_of_location <= 0 )
+       }
+       { ?edge <change_of_state> ?change_of_state
+             FILTER ( ?change_of_state > 0 )
+       }
+     }
